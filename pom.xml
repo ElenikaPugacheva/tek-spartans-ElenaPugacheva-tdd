@@ -21,6 +21,20 @@
                 <artifactId>selenium-java</artifactId>
                 <version>4.23.1</version>
             </dependency>
+            <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+            <dependency>
+                <groupId>org.testng</groupId>
+                <artifactId>testng</artifactId>
+                <version>7.10.2</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.logging.log4j</groupId>
+                <artifactId>log4j-slf4j-impl</artifactId>
+                <version>2.22.0</version>
+                <scope>test</scope>
+            </dependency>
+
         </dependencies>
 
     </project>

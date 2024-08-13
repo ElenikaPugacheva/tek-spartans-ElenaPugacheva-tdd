@@ -1,9 +1,7 @@
 package playground;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
-
 public class Activity1 {
     /*
     * Write a test that navigate to Facebok.com

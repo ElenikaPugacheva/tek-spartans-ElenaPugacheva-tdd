@@ -5,7 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
-public class Activity1 {
+public class Activity11 {
     /*
     * Write a test that navigate to Facebok.com
     * and print title
